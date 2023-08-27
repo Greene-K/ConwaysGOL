@@ -1,5 +1,5 @@
 // this code is a wxWidgets application that runs a simulation of Conways Game of Life
-// written by Kolby Greene - FullSail University - Computer Science
+// written by Greene-K - FullSail University - Computer Science
 #pragma once
 #include "wx/wx.h"
 #include "DrawingPanel.h"

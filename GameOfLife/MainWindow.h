@@ -1,4 +1,4 @@
-// this code is a wxWidgets application that runs a simulation of Conways Game of Life
+//This code is a wxWidgets application that runs a simulation of Conways Game of Life and is reliant on wxWidgets binaries
 // written by Greene-K - FullSail University - Computer Science
 #pragma once
 #include "wx/wx.h"
